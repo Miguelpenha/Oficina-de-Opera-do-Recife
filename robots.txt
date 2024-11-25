@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: /404.html
+Allow: /
+
+Sitemap: https://oficinadeoperadorecife.sonettoproducoes.com/sitemap.xml
