@@ -104,14 +104,6 @@ main>.team>.title {
     align-self: center;
 }
 
-main>.team>.description {
-    color: #FFFFFF;
-    font-weight: 600;
-    font-size: 2.3em;
-    text-align: center;
-    align-self: center;
-}
-
 main>.team>.photos {
     display: flex;
     overflow: auto;
